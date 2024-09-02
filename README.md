@@ -6,6 +6,7 @@ This repository demonstrates a Flutter project following Modular Architecture pr
 
 ## Modular Architecture
 
+
 Modular Architecture is an approach to software design where the application is divided into separate modules or packages. Each module encapsulates its own functionality and dependencies, allowing for better separation of concerns, easier maintenance, and improved scalability. 
 
 ### Benefits of Modular Architecture
@@ -78,6 +79,7 @@ To get started with this project, follow these steps:
 ## Creating New Packages
 
 To create new packages in this project, use the following command:
-
 ```bash
+before that in our project go to cd packages
+
 flutter create --template=package packageName
