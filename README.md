@@ -46,7 +46,8 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/modular_repo.git
+    git clone https://github.com/aditya-wappnet/modular_architecture_example.git
+    
     cd modular_repo
     ```
 
